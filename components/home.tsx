@@ -123,8 +123,7 @@ const Home = ({
             backgroundPosition: "center", // 居中显示
           }}
           onClick={() => {
-            // 跳转到指定链接
-            router.push("https://preview.soundofchildren.xyz/blog/1d6c9329-68e0-8170-aa5c-fdcf890693c4"); // 替换为你的目标链接
+            router.push("/blog/1d6c9329-68e0-8170-aa5c-fdcf890693c4"); // 替换为你的目标链接
           }}
         >
           
