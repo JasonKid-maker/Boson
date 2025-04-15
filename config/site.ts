@@ -11,6 +11,7 @@ export const siteConfig = {
 };
 
 export const notionBlogConfig = {
-  blogParentId: "1d6c9329-68e0-81a3-81b4-f94fcc8f0105",
+  //blogParentId: "1d6c9329-68e0-81a3-81b4-f94fcc8f0105",
+  blogParentId: "1d6c9329-68e0-800d-92bb-c84790b7b615",
   // 
 };
