@@ -224,26 +224,7 @@ const Home = ({
           }}
         >
         </div>
-        <div
-          key="chatBot"
-          className={cn(
-            "bg-white dark:bg-darkBg dark:border-2 dark:border-knight cursor-grab active:cursor-grabbing rounded-[2rem] flex justify-center items-center overflow-hidden z-[1]",
-            selectedCard[tabSelected]["chatBot"] ? "opacity-100" : "opacity-50"
-          )}
-        >
-          <Chatbot chatbotUrl={chatbotUrl} />3
-        </div>
-
-
-        <div
-          key="actions"
-          className={cn(
-            "bg-white dark:bg-darkBg dark:border-2 dark:border-knight cursor-grab active:cursor-grabbing rounded-[2rem] flex justify-center items-center overflow-hidden z-[1]",
-            selectedCard[tabSelected]["actions"] ? "opacity-100" : "opacity-50"
-          )}
-        >
-          <Actions photoUrl={actionImageUrl} />4
-        </div>
+        
 
       </Responsive>
     </div>
