@@ -1,11 +1,11 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "个人演示站点",
-  description: "这个站点只能做演示，啥也干不了！！！",
+  name: "The Sound Of Children ",
+  description: "The Sound Of Children ",
   links: {
-    github: "https://github.com/debug-deng",
-    linkedin: "https://www.innet.cloud",
+    github: "https://github.com/DaShanTongYin",
+    linkedin: "preview.soundofchildren.xyz",
     email: "mailto:m17612011020@outlook.com",
   },
 };
