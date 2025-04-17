@@ -4,9 +4,10 @@ export const layouts: Record<string, Layouts> = {
   all: {
     lg: [
       { i: "avatar", x: 0, y: 0, w: 2, h: 2 },
-      { i: "themeSwitch", x: 0, y: 1, w: 2, h: 2 },
+      
       { i: "miniModel", x: 0, y: 1, w: 1, h: 2 },
-      { i: "cardStack", x: 0, y: 2, w: 2, h: 2 },
+      { i: "themeSwitch", x: 0, y: 2, w: 2, h: 2 },
+      { i: "cardStack", x: 0, y: 1, w: 2, h: 2 },
       { i: "animatedEmoji", x: 2, y: 0, w: 1, h: 2 },
       { i: "mapComponent", x: 2, y: 1, w: 1, h: 2 },
       { i: "mapComponent2", x: 3, y: 1, w: 1, h: 2 },
