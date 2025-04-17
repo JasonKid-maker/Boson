@@ -123,7 +123,7 @@ const Home = ({
             backgroundPosition: "center", // 居中显示
           }}
           onClick={() => {
-            router.push("/blog/1d8c9329-68e0-8105-8992-f673aab14007"); // 替换为你的目标链接
+            router.push("/blog/1d8c9329-68e0-81f9-8db5-fd4ec5a25a41"); // 替换为你的目标链接
           }}
           role="button"
         >
@@ -158,7 +158,7 @@ const Home = ({
             backgroundPosition: "center", // 居中显示
           }}
           onClick={() => {
-            router.push("/blog/1d8c9329-68e0-81c4-917d-c6b32a121322"); // 替换为你的目标链接
+            router.push("/blog/1d8c9329-68e0-8131-9161-d66e698ad10b"); // 替换为你的目标链接
           }}
           role="button"
         >
@@ -179,7 +179,7 @@ const Home = ({
             backgroundPosition: "center", // 居中显示
           }}
         onClick={() => {
-          router.push("/blog/1d8c9329-68e0-817b-b32f-f9823f697038"); // 替换为你的目标链接
+          router.push("/blog/1d8c9329-68e0-810c-9ecc-df2e5241721d"); // 替换为你的目标链接
         }}
         role="button"
         >
