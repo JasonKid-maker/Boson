@@ -12,6 +12,6 @@ export const siteConfig = {
 
 export const notionBlogConfig = {
   //blogParentId: "1d6c9329-68e0-81a3-81b4-f94fcc8f0105",
-  blogParentId: "1d8c9329-68e0-80e0-9d0d-c1b317ecd1e9",
-  // https://meowing-numeric-b46.notion.site/1d8c932968e080e09d0dc1b317ecd1e9?pvs=4
+  blogParentId: "1d8c9329-68e0-804f-a492-d6942e56ce65",
+  // https://meowing-numeric-b46.notion.site/1d8c932968e0804fa492d6942e56ce65?pvs=4
 };
