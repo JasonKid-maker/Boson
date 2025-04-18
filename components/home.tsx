@@ -84,8 +84,8 @@ const Home = ({
           setTabSelected(selected as string);
         }}
       >
-        <Tab key="all" title="所有" />
-        <Tab key="blog" title="博客" />
+        <Tab key="all" title="ALL" />
+        <Tab key="blog" title="BLOG" />
       </Tabs>
 
       <Responsive
