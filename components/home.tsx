@@ -199,7 +199,7 @@ const Home = ({
           }}
           onClick={() => {
             // 跳转到指定链接
-            router.push("https://playcanv.as/b/6e3141a6"); // 替换为你的目标链接
+            router.push("/blog/1d9b12c3-30e1-81f7-b79b-f1e1c2f2f7a9"); // 替换为你的目标链接
           }}
           role="button"
           tabIndex={0}
@@ -224,7 +224,7 @@ const Home = ({
           }}
           onClick={() => {
             // 跳转到指定链接
-            router.push("https://playcanv.as/p/wwwViNJA/"); // 替换为你的目标链接
+            router.push("/blog/1d9b12c3-30e1-81b3-8ec8-c4e962a4164a"); // 替换为你的目标链接
           }}
           role="button"
           tabIndex={0}
