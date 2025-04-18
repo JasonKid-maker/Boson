@@ -107,7 +107,7 @@ const Home = ({
         >
           <AvatarTransition avatarUrl="/tx.jpg" dogUrl={dogUrl} />
           <p className="text-sm md:text-medium overflow-auto">
-            <span className="font-oleo text-2xl"> 你好！我叫高博森。</span>我是一个热爱考古的高中生。在日常学习之余，我对探索历史遗迹和研究古代文明充满了热情。我期待与同样热爱考古的朋友们交流，共同探索历史的奥秘。未来，我希望能够进一步学习考古学，参与到更多的考古研究和发掘中，为揭示历史的奥秘贡献自己的一份力量。</p>
+            <span className="font-oleo text-2xl"> Hello! My name is Gao Bosen.</span> I am a high school student with a strong passion for archaeology. Outside of my regular studies, I am deeply fascinated by exploring historical sites and studying ancient civilizations. I look forward to connecting with fellow archaeology enthusiasts to uncover the mysteries of history together. In the future, I hope to further my studies in archaeology and participate in more research and excavation projects, contributing my efforts to revealing the secrets of the past.</p>
         </div>
         <div
           key="themeSwitch"
