@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "The Sound Of Children ",
+  name: "漫步奇旅 ",
   description: "The Sound Of Children ",
   links: {
     github: "https://github.com/DaShanTongYin",
@@ -12,6 +12,6 @@ export const siteConfig = {
 
 export const notionBlogConfig = {
   //blogParentId: "1d6c9329-68e0-81a3-81b4-f94fcc8f0105",
-  blogParentId: "1d9c9329-68e0-805a-a0dc-fa72b0034aff",
-  // https://meowing-numeric-b46.notion.site/1d9c932968e0805aa0dcfa72b0034aff?pvs=4
+  blogParentId: "1d9b12c3-30e1-80a0-8462-f4b06795afae",
+  // https://foil-consonant-ace.notion.site/1d9b12c330e180a08462f4b06795afae?pvs=4
 };
